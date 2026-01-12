@@ -1,4 +1,7 @@
+print("I like cookies")
 print("Hello, nerd - Remote")
-
+print("Cats are better than dogs")
 print("Hello, nerd - Local")
+print("Sometimes I'm stupid")
 print("Added during merge")
+print("Remote end")
